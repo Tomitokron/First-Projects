@@ -1,0 +1,28 @@
+[
+    {
+        "pytanie":"W którym roku pojawił się Python?",
+        "a":1999,
+        "b":1991,
+        "c":2000,
+        "d":4444,
+        "prawidołowa_odpowiedź":"b"
+    },
+    {
+        "pytanie":"Która planeta od Slońca jest Ziemia?",
+        "a":1,
+        "b":2,
+        "c":3,
+        "d":4,
+        "prawidołowa_odpowiedź":"c"
+    },
+    {
+        "pytanie":"Który aktor jako pierwszy wcielił się w rolę Jamesa Bonda?",
+        "a":"Sean Connery",
+        "b":"Rogger Moore",
+        "c":"Timmothy Dalton",
+        "d":"Pierce Brosnan",
+        "prawidołowa_odpowiedź":"a"
+    }
+
+
+]
